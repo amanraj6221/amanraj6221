@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Android,Python,C++,DSA**
 
-- 📫 How to reach me **aamanraj6221@gmail.com**
+- 📫 How to reach me **amanraj6221@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
