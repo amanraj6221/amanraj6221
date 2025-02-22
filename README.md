@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Android,Python,C++,DSA**
+- 💬 Ask me about **React,Python,C++,DSA**
 
 - 📫 How to reach me **amanraj6221@gmail.com**
 
