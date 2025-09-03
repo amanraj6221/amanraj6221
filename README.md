@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Raj</h1>
-<h3 align="center">🚀 Full-Stack Developer | React • Django • Node.js | 3x Smart India Hackathon Finalist</h3>
+<h3 align="center">🚀 Software Developer || Full-Stack Developer | React • Django • Node.js || 3× Smart India Hackathon Finalist 🏆</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -20,57 +20,109 @@
 
 ---
 
-### 🛠️ Tech Stack  
-**Languages:** JavaScript, Python, C++, Java, SQL  
-**Frontend:** React.js, Redux Toolkit, Tailwind CSS, HTML5, CSS3  
-**Backend:** Node.js, Express.js, Django, Django REST Framework  
-**Databases:** PostgreSQL, MySQL, MongoDB, Firebase  
-**Tools:** Git/GitHub, Docker, REST APIs, Webpack, Linux, VS Code  
+### 🛠️ Skills  
+
+**Frontend**  
+React.js • Redux • Next.js • HTML5 • CSS3 • JavaScript • Bootstrap • Material UI • Flutter  
+
+**Backend**  
+Node.js • Express.js • Django • Python • MySQL • PostgreSQL • MongoDB • Firebase  
+
+**Android**  
+Java • Kotlin • XML • Android Studio  
+
+**Others**  
+Git • GitHub • Docker • Netlify • VS Code • Postman • Figma  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,django,py,cpp,java,postgres,mysql,mongodb,firebase,tailwind,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,express,django,py,cpp,java,postgres,mysql,mongodb,firebase,tailwind,docker,git,linux,figma,postman,flutter" />
 </p>
+
+---
+
+### 🎓 Licenses & Certifications  
+
+- 🟣 **Oracle Certified AI Foundation Associate** (Aug 2025) – *Generative AI*  
+- 🟣 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** (Aug 2025)  
+- 🏆 **Smart India Hackathon 2022, 2023, 2024 Finalist**  
+- 🌐 **CCNAv7: Enterprise Networking, Security, and Automation** – Cisco  
+- 🌐 **CCNAv7: Switching, Routing, and Wireless Essentials** – Cisco  
+- 🌐 **CCNAv7: Introduction to Networks** – Cisco  
+- 🔐 **Cybersecurity Essentials** – Cisco Networking Academy  
+- 🐍 **PCAP: Programming Essentials in Python** – OpenEDG Python Institute  
+- ☁️ **Azure Fundamentals Cloud Skill Challenge** – Microsoft Learn  
+- 🛡️ **Cybersecurity Skilling Program** – IIT Kanpur  
+- 📡 **Networking Essentials** – Cisco  
+- 🤖 **Emerging Technologies (AI & Cloud)** – IBM  
+- 🛠️ **Introduction to IoT** – NPTEL  
+- 💻 **Android App Development** – Internshala  
+- 🔧 **Arduino Training & Introduction to Computers** – Spoken Tutorial  
 
 ---
 
 ### 💼 Experience  
 
-- **Software Development Intern – C-DAC Kolkata (Apr 2025 – Sep 2025)**  
-  🔹 Built **secure validation systems** (OCR + QR decoding)  
-  🔹 Designed **dashboards with analytics (Chart.js + Django REST)** → +60% efficiency  
-  🔹 Automated **PDF/Excel/Word reports** for compliance  
+#### **Software Developer Intern – C-DAC, Kolkata**  
+📍 Apr 2025 – Sep 2025 | Onsite, India  
+- Developed a **Secure Validation System** combining OCR + QR decoding  
+- Built **Admin dashboards with real-time analytics (Chart.js + Django REST)** → boosted monitoring efficiency by **60%**  
+- Automated compliance-ready **PDF/Excel/Word exports** using ReportLab & OpenPyXL  
+- Tech Stack: Django, MySQL, Tailwind CSS, Tesseract OCR, Pillow, Pyzbar  
 
-- **Web Development Intern – Sure Trust (Dec 2024 – Apr 2025)**  
-  🔹 Developed a **full-stack NGO platform** with MERN stack  
-  🔹 Integrated an **AI-powered chatbot** using Dialogflow + Python  
-  🔹 Deployed a **portfolio website** in React.js  
+---
 
-- **Salesforce Virtual Internship – SmartInternz (Dec 2023 – Jan 2024)**  
-  🔹 Configured **Lightning Web Components, Visualforce, Flows**  
-  🔹 Optimized **Apex triggers & SOQL queries** for +25% responsiveness  
+#### **Full Stack Developer Intern – Sure Trust**  
+📍 Dec 2024 – Apr 2025 | Remote, India  
+- Built a **full-stack NGO learning platform (MERN stack)**  
+- Developed & integrated **AI chatbot** (Dialogflow + Python)  
+- Deployed **portfolio website** in React.js showcasing projects  
+
+---
+
+#### **Emerging Technologies (AI & Cloud) Intern – Edunet Foundation**  
+📍 Jan 2024 – Feb 2024  
+- Built **cloud-integrated AI models** with AWS & IBM Cloud  
+- Designed **ML workflows** with Google Colab & Scikit-learn  
+- Worked on **Responsible AI & Edge Deployment** in constrained environments  
+
+---
+
+#### **Salesforce Developer Virtual Intern – Salesforce (SmartInternz)**  
+📍 Dec 2023 – Jan 2024  
+- Designed & deployed **Lightning Web Components**  
+- Automated business processes with **Flows & Apex triggers** → +40% efficiency  
+- Improved CI/CD pipelines with **Salesforce DX + GitHub**  
+
+---
+
+#### **Cybersecurity Virtual Intern – Edunet Foundation**  
+📍 Oct 2023 – Nov 2023  
+- Designed a **steganography-based secure communication system** for healthcare  
+- Implemented **AES encryption** for patient record privacy (HIPAA compliant)  
+- Built a **GUI tool** for non-tech users to use securely  
 
 ---
 
 ### 🚀 Projects  
 
 🔗 **[PMSSS Scholarship Portal](#)**  
-- Secure identity verification with **Aadhaar e-KYC & Gmail/SMS APIs**  
-- Integrated **Stripe payment gateway** for fund disbursement  
+- Integrated **Aadhaar e-KYC + Gmail/SMS APIs** for secure verification  
+- Stripe payment gateway for **fund disbursement automation**  
 
 🔗 **[Inter-State Student Verification System](#)**  
-- Automated multi-tier **verification workflows with APIs**  
-- Added **real-time notifications (SMS, Gmail)** using React.js + PHP + MySQL  
+- Multi-tier **verification workflows** with React.js + PHP + MySQL  
+- Instant **real-time notifications** via SMS & Gmail  
 
 🔗 **[Portfolio Website](#)**  
-- Built with **React.js, Tailwind CSS**  
-- Showcasing projects, skills & experiences  
+- Personal **React.js + Tailwind CSS** project showcasing my work  
 
 ---
 
 ### 🏆 Achievements  
 
-- 🎖️ **Smart India Hackathon Finalist** (3x – 2022, 2023, 2024)  
-- 🎓 Certified: **Cybersecurity (IIT Kanpur)**, Cisco Networking Academy (**Cybersecurity Essentials, Python Programming**)  
+- 🎖️ 3× **Smart India Hackathon Finalist** (2022, 2023, 2024)  
+- 🎓 Certified in **Cybersecurity (IIT Kanpur)**, Cisco Networking Academy (Python, Cybersecurity, CCNA)  
+- 🌟 Certified in **AI, Cloud & IoT** (Oracle, IBM, NPTEL, Microsoft Learn)  
 
 ---
 
