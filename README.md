@@ -126,13 +126,21 @@ Git • GitHub • Docker • Netlify • VS Code • Postman • Figma
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanraj6221&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanraj6221&layout=compact&theme=tokyonight" height="170"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amanraj6221&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanraj6221&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanraj6221&theme=tokyonight" height="170"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=amanraj6221&theme=tokyonight&hide_border=false"/>
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=amanraj6221&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amanraj6221&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10"/>
 </p>
